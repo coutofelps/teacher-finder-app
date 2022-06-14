@@ -1,4 +1,4 @@
-## Projeto CRUD Android App
+## Teach Finder App
 
 Repositório criado para ser utilizado pelo projeto de um CRUD para encontrar um professor online.
 
