@@ -1,6 +1,6 @@
 ## Teach Finder App
 
-Repositório criado para ser utilizado pelo projeto de um CRUD para encontrar um professor online.
+Repositório criado para ser utilizado pelo projeto Teacher Finder que tem como objetivo encontrar um professor online.
 
 ## Autores
 
