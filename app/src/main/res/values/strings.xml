@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Encontre um Professor</string>
+    <string name="welcome_message">Crie uma conta para acessar nosso aplicativo e encontrar um professor!</string>
+    <string name="btn_create_your_account">Crie sua conta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

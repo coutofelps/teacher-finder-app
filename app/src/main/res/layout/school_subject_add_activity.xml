@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_dark_background"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="20dp"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:id="@+id/imgTeacherIcon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            app:srcCompat="@drawable/school_subject_icon" />
+
+        <TextView
+            android:id="@+id/tvWelcomeMessage"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginBottom="15dp"
+            android:text="Preencha o formulário abaixo para adicionar uma matéria:"
+            android:textSize="15dp"
+            android:textColor="@color/white"
+            android:gravity="center_vertical|left"
+            tools:ignore="MissingConstraints" />
+
+        <EditText
+            android:id="@+id/edtName"
+            android:background="@color/white"
+            android:hint="Nome"
+            android:textSize="15dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:gravity="center_vertical|left"
+            android:padding="10dp"
+            android:layout_marginBottom="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btnCreateSchoolSubject"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:backgroundTint="#EC8C8C"
+            android:text="Adicionar"
+            android:textSize="15dp"
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
