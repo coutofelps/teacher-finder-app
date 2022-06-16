@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Matérias"
+        android:icon="@drawable/book_menu_icon"
+        android:title="Matérias"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/Lugares"
+        android:icon="@drawable/place_menu_icon"
+        android:title="Locais"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/Match"
+        android:icon="@drawable/map_menu_icon"
+        android:title="Matches"
+        app:showAsAction="ifRoom" />
+</menu>

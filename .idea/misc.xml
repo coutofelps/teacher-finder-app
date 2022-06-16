@@ -13,6 +13,16 @@
         <entry key="..\:/Users/marco/AndroidStudioProjects/TeacherFinder/app/src/main/res/layout/school_subject_list_activity.xml" value="0.2617753623188406" />
         <entry key="..\:/Users/marco/AndroidStudioProjects/TeacherFinder/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
         <entry key="..\:/Users/marco/AndroidStudioProjects/TeacherFinder/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.137" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/bottom_navigation.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/bottom_navigation_menu.xml" value="0.27109375" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/login_activity.xml" value="0.3625" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/place_add_activity.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/place_card.xml" value="0.3625" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/place_list_activity.xml" value="0.3625" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/school_subject_add_activity.xml" value="0.33" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/school_subject_card.xml" value="0.33" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/layout/school_subject_list_activity.xml" value="0.5" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/teacherfinder/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3625" />
       </map>
     </option>
   </component>
